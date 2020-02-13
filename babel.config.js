@@ -4,7 +4,7 @@ const presets = [
             edge: '17',
             firefox: '60',
             chrome: '67',
-            safri: '11.1'
+            safari: '11.1'
         }
     }]
 ];
