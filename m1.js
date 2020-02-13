@@ -11,3 +11,9 @@ export default {
     c,
     show
 }
+
+export let s1 = 10;
+export let s2 = 20;
+export function say() {
+    console.log('hey')
+}
